@@ -1,0 +1,1 @@
+Aprendemos a realizar requisições para uma API, usar `forEach` e `map` para manipulação de arrays, aplicar descontos, filtrar livros por categoria com `filter`, ordenar com `sort`, calcular o valor total com `reduce`, e melhorar a experiência do usuário manipulando o DOM.
